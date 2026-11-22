@@ -1,0 +1,14 @@
+Project: LineageOS
+Device: Redmi K20 Pro (raphael)
+Release: Unofficial
+Build Type: Stable
+Maintainer: NumaanMushtaq
+
+08/11/2026
+
+*Initial Android 17 (A17) build
+*Dirty flash over previous build is fine
+*November Security Patch
+*Latest LineageOS source changes
+*Default kernel comes pre-rooted
+*Various miscellaneous improvements and changes
